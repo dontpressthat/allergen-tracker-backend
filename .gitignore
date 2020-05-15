@@ -1,0 +1,4 @@
+node_modules
+apiKey.json
+dictionary_api.js
+awsInfo.js
